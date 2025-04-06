@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnuragSriva
-- 👀 I’m interested in React Development with improving skills on React js,Redux, JavsScript and other Front end Tech Stacks.
-- 🌱 I’m currently working as Professional React js Developer at Capgemini in Bangalore.
-- 💞️ I’m looking to collaborate on Front end/React js projects/jobs.
+- 👀 I’m interested in Front-end/React Development with improving skills on React js,Redux,Angular, Typescript, JavsScript and other Front end Tech Stacks.
+- 🌱 I’m currently working as  Engineer/React js Developer at Nagarro in Bangalore.
+- 💞️ I’m looking for Front-end roles/jobs and would like to collaborate and contribute on Front end/React js projects/jobs.
 - 📫 Contact me here https://www.linkedin.com/in/anur-aag-srivastava-aka47/
 
 <!---
